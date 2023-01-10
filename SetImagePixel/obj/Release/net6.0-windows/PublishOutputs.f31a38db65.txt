@@ -1,0 +1,5 @@
+D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Release\net6.0-windows\publish\SetImagePixel.exe
+D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Release\net6.0-windows\publish\SetImagePixel.dll
+D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Release\net6.0-windows\publish\SetImagePixel.deps.json
+D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Release\net6.0-windows\publish\SetImagePixel.runtimeconfig.json
+D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Release\net6.0-windows\publish\SetImagePixel.pdb

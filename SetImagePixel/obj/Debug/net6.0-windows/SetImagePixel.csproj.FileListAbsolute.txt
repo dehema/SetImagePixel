@@ -1,0 +1,14 @@
+D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Debug\net6.0-windows\SetImagePixel.deps.json
+D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Debug\net6.0-windows\SetImagePixel.runtimeconfig.json
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.csproj.AssemblyReference.cache
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.Form1.resources
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.csproj.GenerateResource.cache
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.AssemblyInfoInputs.cache
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.AssemblyInfo.cs
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.csproj.CoreCompileInputs.cache
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.dll
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\refint\SetImagePixel.dll
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.pdb
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.genruntimeconfig.cache
+D:\Project\CSharp\SetImagePixel\SetImagePixel\obj\Debug\net6.0-windows\SetImagePixel.Properties.Resources.resources

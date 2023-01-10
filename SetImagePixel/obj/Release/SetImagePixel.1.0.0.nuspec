@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SetImagePixel</id>
+    <version>1.0.0</version>
+    <authors>SetImagePixel</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Release\net6.0-windows\SetImagePixel.runtimeconfig.json" target="lib\net6.0-windows7.0\SetImagePixel.runtimeconfig.json" />
+    <file src="D:\Project\CSharp\SetImagePixel\SetImagePixel\bin\Release\net6.0-windows\SetImagePixel.dll" target="lib\net6.0-windows7.0\SetImagePixel.dll" />
+  </files>
+</package>
